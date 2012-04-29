@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tab-group div{
+	display:none;	
+	height:500px;
+	width: 800px;
+}
+
+.tab-group .current{
+	display:block;	
+}
+
+.tab-buttons ul li{
+	margin:5px 5px 0px 5px;
+	padding:5px 25px 5px 25px;
+	display:inline;
+}
+	
+li{
+	text-decoration:none;
+	background:#CCC;
+}
+
+
+h1{
+	width:200px;
+	color:#FFF;	
+	
+	margin: 10px 0px 0px 25px;
+	padding: 0; 
+}
+
+.tab-group{
+	margin-top:-10px;
+	padding:0px;	
+}
+
+#tab-1{
+	background-color:#60F;
+}
+#tab-2{
+	background-color:#66F;
+}
+#tab-3{
+	background-color:#69F;
+}
+#tab-4{
+	background-color:#6CF;
+}
+
+
+#tab-1{
+	background-color:#60F;
+}
+#tab-2{
+	background-color:#66F;
+}
+#tab-3{
+	background-color:#69F;
+}
+#tab-4{
+	background-color:#6CF;
+}
